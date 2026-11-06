@@ -115,7 +115,7 @@ mvn test
 
 ## AI assistance
 
-This project was built with help from an **AI coding agent in Cursor** and reviewed/edited by the author. Generated code was validated with unit tests, fixture corpora, and CI before merge.
+This project was built with **AI assistance** (a Cursor cloud coding agent). The requirements and design goals were Habib's; he reviewed the result, ran the documented build/test steps, and treats CI + fixture corpora as the acceptance bar. The tool is a learning/portfolio analyzer, not a claim of production-grade SAST coverage.
 
 ## License
 
